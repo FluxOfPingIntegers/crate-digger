@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  city_id: 1
+  image_url: MyString
+  phone: MyString
+  rating: 1
+  description: MyString
+  address: MyString
+
+two:
+  name: MyString
+  city_id: 1
+  image_url: MyString
+  phone: MyString
+  rating: 1
+  description: MyString
+  address: MyString
